@@ -1,2 +1,2 @@
-# packerubuntu2004
+# packerubuntu20.04
 vagrant packerubuntuimage
